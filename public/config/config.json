@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4A6540c8E34F555635f4076c08D1130BA21559a7",
+  "SCAN_LINK": "https://testnet.snowtrace.io/address/0x4A6540c8E34F555635f4076c08D1130BA21559a7",
+  "NETWORK": {
+    "NAME": "Avalanche FUJI C-Chain",
+    "SYMBOL": "AVAX",
+    "ID": 43113
+  },
+  "NFT_NAME": "TheFunkyHorsePub",
+  "SYMBOL": "FHP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "NFTrade",
+  "MARKETPLACE_LINK": "https://testnets.nftrade.com/assets/fuji/0x4A6540c8E34F555635f4076c08D1130BA21559a7",
+  "SHOW_BACKGROUND": true
+}
